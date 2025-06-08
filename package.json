@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "dotnet": "^1.1.4"
+  },
+  "name": "pmfp-personal_finance_portal",
+  "version": "1.0.0",
+  "description": "Personal-Finance-Management-Portal",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VaskoPavlov/PMFP-personal_finance_portal.git"
+  },
+  "author": "VPP",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VaskoPavlov/PMFP-personal_finance_portal/issues"
+  },
+  "homepage": "https://github.com/VaskoPavlov/PMFP-personal_finance_portal#readme"
+}
