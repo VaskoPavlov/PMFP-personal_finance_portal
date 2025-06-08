@@ -2,3 +2,17 @@
 node_modules/
 .next/
 .DS_Store
+
+# .NET build folders
+**/bin/
+**/obj/
+
+# VS Code workspace
+.vscode/
+
+# macOS files
+.DS_Store
+
+# Node modules & Next.js build
+node_modules/
+.next/
